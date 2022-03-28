@@ -1,4 +1,4 @@
-Assimgents
+Assignments
 
 Assignment 1
 From the list of strings in format “net, tax, gross” calculate the overall percentage of taxes included in the final price.
