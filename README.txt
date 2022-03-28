@@ -44,3 +44,16 @@ All assignments should be done on branch solutions and PR to master should be cr
 Use Java 17 for coding.
 Unit tests required for all assignments, preferably in Junit5.
 Each assignment should be done in a separate commit.
+
+<!DOCTYPE html>
+
+<html>
+
+<h2>Simple Url Shortener.</h2> 
+<div text-align: justify;>
+It uses CRC32C to generate a unique hash of reasonable length for every inputted url. Whole application is Spring Boot based. It also exposes two REST style endpoints to communicate with the outside world. One endpoint is responsible for shortening of the urls while the second is response for retrieving already shortened urls. Persistence is provided by H2 in-memory database so there is no persistence between restarts of application.
+ </div>
+</html>
+
+</html>
+
